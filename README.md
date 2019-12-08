@@ -64,7 +64,3 @@ It is way too long to train the car by driving it with a remote controller. That
 ### Model
 
 The model is also given [there](https://github.com/vinzeebreak/road_simulator).
-=======
-# Autonomous-AI-Car
-The car is going to conquest the world
->>>>>>> 35f508fac2853954254e545e1323d9d01bdd85fe
