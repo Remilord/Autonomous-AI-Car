@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # IRONCAR
 
 ![Picture of the IronCar](docs/car.jpg)
